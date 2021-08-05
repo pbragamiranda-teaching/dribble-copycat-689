@@ -1,0 +1,26 @@
+.container {
+  width: 730px;
+  padding: 56px;
+  background-color: white;
+  margin: 0 auto;
+  border-radius: 8px;
+  box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.number-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.info-box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: left;
+  padding: 8px 24px;
+}
+
+.info-box h4 {
+  margin: 0;
+}

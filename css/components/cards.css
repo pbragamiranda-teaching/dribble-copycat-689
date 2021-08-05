@@ -1,0 +1,20 @@
+.card-number {
+  background-color: #EEEEEE;
+  border-radius: 8px;
+  text-align: center;
+  height: 160px;
+  width: 350px;
+  margin-top: 8px;
+
+}
+
+.card-number h2 {
+  font-weight: light;
+  font-size: 20px;
+  color: gray;
+  margin: 0;
+}
+
+.card-number h1 {
+  font-size: 42px;
+}
